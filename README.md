@@ -1,2 +1,2 @@
-# descriptor.py
+
 By opencv
