@@ -31,4 +31,4 @@ face_rec_model_path = "E://Download/dlib_face_recognition_resnet_model_v1.dat.da
 
 img_path = "E://Download/predictor"  注意是路径
 
-#模型已经放好在项目中！！！
+# 识别模型和检测器已经放入项目之中！！！
